@@ -1,0 +1,56 @@
+[
+  {
+    "model": "core.currency",
+    "pk": 1,
+    "fields": {
+      "name": "Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "core.currency",
+    "pk": 2,
+    "fields": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  {
+    "model": "core.currency",
+    "pk": 3,
+    "fields": {
+      "name": "Ruble",
+      "code": "RUB",
+      "symbol": "₽"
+    }
+  },
+  {
+    "model": "core.currency",
+    "pk": 4,
+    "fields": {
+      "name": "Yen",
+      "code": "JPY",
+      "symbol": "¥"
+    }
+  },
+  {
+    "model": "core.currency",
+    "pk": 5,
+    "fields": {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  {
+    "model": "core.currency",
+    "pk": 6,
+    "fields": {
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "symbol": "₣"
+    }
+  }
+]

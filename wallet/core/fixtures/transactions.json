@@ -1,0 +1,44 @@
+[
+  {
+    "model": "core.transaction",
+    "pk": 1,
+    "fields": {
+      "creator": 1,
+      "wallet": 1,
+      "category": 4,
+      "executed_at": "2021-10-03T20:27:44.894Z",
+      "value": "17.00",
+      "title": "Bus passage",
+      "description": "Just 17 rubles for a perfect ride!",
+      "is_expense": true
+    }
+  },
+  {
+    "model": "core.transaction",
+    "pk": 2,
+    "fields": {
+      "creator": 1,
+      "wallet": 2,
+      "category": 3,
+      "executed_at": "2021-10-03T20:29:37.028Z",
+      "value": "48.00",
+      "title": "McDonald's",
+      "description": "One cheeseburger, please.",
+      "is_expense": true
+    }
+  },
+  {
+    "model": "core.transaction",
+    "pk": 3,
+    "fields": {
+      "creator": 1,
+      "wallet": 2,
+      "category": 1,
+      "executed_at": "2021-10-03T20:31:40.248Z",
+      "value": "50.00",
+      "title": "September salary",
+      "description": "A salary in dollars, wait, what?",
+      "is_expense": false
+    }
+  }
+]

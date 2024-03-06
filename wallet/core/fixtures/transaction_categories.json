@@ -1,0 +1,38 @@
+[
+  {
+    "model": "core.transactioncategory",
+    "pk": 1,
+    "fields": {
+      "creator": 1,
+      "name": "Salary",
+      "is_expense": false
+    }
+  },
+  {
+    "model": "core.transactioncategory",
+    "pk": 2,
+    "fields": {
+      "creator": 1,
+      "name": "Gifts",
+      "is_expense": false
+    }
+  },
+  {
+    "model": "core.transactioncategory",
+    "pk": 3,
+    "fields": {
+      "creator": 1,
+      "name": "Food",
+      "is_expense": true
+    }
+  },
+  {
+    "model": "core.transactioncategory",
+    "pk": 4,
+    "fields": {
+      "creator": 1,
+      "name": "Transport",
+      "is_expense": true
+    }
+  }
+]

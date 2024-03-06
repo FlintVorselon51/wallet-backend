@@ -1,0 +1,32 @@
+[
+  {
+    "model": "core.wallet",
+    "pk": 1,
+    "fields": {
+      "creator": 1,
+      "currency": 3,
+      "name": "Cash",
+      "balance": "30000.00"
+    }
+  },
+  {
+    "model": "core.wallet",
+    "pk": 2,
+    "fields": {
+      "creator": 1,
+      "currency": 3,
+      "name": "Debit Card",
+      "balance": "12000.00"
+    }
+  },
+  {
+    "model": "core.wallet",
+    "pk": 3,
+    "fields": {
+      "creator": 1,
+      "currency": 1,
+      "name": "Dollar Card",
+      "balance": "99.95"
+    }
+  }
+]
